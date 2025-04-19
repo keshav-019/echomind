@@ -75,16 +75,18 @@
 
 ## 📁 Project Structure
 
-echomind/ 
-├── stt/ # Whisper integration 
-├── tts/ # TTS Engine (Coqui/gTTS) 
-├── nlu/ # Intent classification, context parser 
-├── tasks/ # Task definitions and executor 
-├── memory/ # Session history and embeddings 
-├── api/ # REST/WS interface 
-├── frontend/ # (Optional) React UI 
-├── data/ # Datasets for training/customization 
-└── docker/ # Containerization setup
+```bash
+echomind/
+├── 🗣️  stt/          # Whisper integration for speech-to-text
+├── 🔊  tts/          # Text-to-speech engines (Coqui, gTTS)
+├── 🧠  nlu/          # Intent classification, entity extraction, context parsing
+├── ⚙️  tasks/        # Task definitions and execution logic
+├── 🧵  memory/       # Conversational memory, session history, vector DB
+├── 🌐  api/          # REST/GraphQL/WebSocket interfaces
+├── 🖥️  frontend/     # Optional React-based web UI
+├── 📊  data/         # Training datasets and user data
+└── 🐳  docker/       # Dockerfiles and container setup
+```
 ---
 
 ## 📚 Datasets & References
