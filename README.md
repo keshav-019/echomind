@@ -2,7 +2,7 @@
 
 > **EchoMind** is an advanced personal voice assistant that combines Natural Language Processing, Deep Learning, and modern Web Technologies to create a human-like interactive experience. Unlike conventional assistants, EchoMind emphasizes *context understanding*, *smart memory*, and the ability to *execute complex tasks* using simple voice commands.
 
-![EchoMind Banner](https://your-image-link-here.com/banner.png)
+![EchoMind Banner](/assets/Banner.jpg)
 
 ---
 
